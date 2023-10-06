@@ -9,26 +9,24 @@ AI-generated technical article
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - chatGPT">
   </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
-</p>
+ </p>
 
 -------
-
 <p align="center">
-  <img
+<a href="https://www.linkedin.com/pulse/from-data-business-dashboard-python-developers-guide-ribeiro/"><img
     src="assets\preview.jpeg"
     width="400"  
   />
+  </a>
 </p>
-
+    
 # Project AI-generated technical article
 
  > ℹ️ **NOTE:** Repository developed together with technical instructor Felipe Aguiar during the course on the [DIO platform](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
 
 Project with the objective of generating a technical article with a rich layout, pleasant to read and focused on promoting its technical authority.
 
-<a href="https://web.dio.me/articles/from-data-to-business-dashboard-a-python-developers-guide-to-visualizing-information" title="View PDF now"> 📕Click here to read the article</a>
+<a href="https://web.dio.me/articles/from-data-to-business-dashboard-a-python-developers-guide-to-visualizing-information" title="View article"> 📕Click here to read the article</a>
 
 ## 💻 Useful tools
 
