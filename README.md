@@ -2,7 +2,7 @@
 AI-generated technical article
 
 <p align="center">
-    <img width="100" src="assets\banner.jpg">
+    <img width="100" src="assets\banner.png">
 </p>
 
 
